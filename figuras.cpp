@@ -59,7 +59,7 @@ int main(){
 
     cout<<"APLICACIÓN PARA IMPRIMIR FIGURAS"<<endl;
     cout<< "1. Impresión del cuadrado"<<endl;
-    cout<<F.cuadrado()<<endl;
+    cout<<F.mal()<<endl;
     cout<< "2. Impresión del rectángulo"<<endl;
     cout<<F.rectangulo()<<endl;
     cout<< "3. Impresión del triángulo"<<endl;
