@@ -52,7 +52,7 @@ struct Figura {
     }
 };
 
-/*
+
 int main(){
 
     Figura F = Figura(4, 3, CARACTER);
@@ -71,4 +71,3 @@ int main(){
 
 return 0;
 }
-*/
